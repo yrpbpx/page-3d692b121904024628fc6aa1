@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2b3cd39d20a16137d605dd02",
+  "owner": "yrpbpx",
+  "repo": "page-3d692b121904024628fc6aa1",
+  "title": "机场榜单",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3d692b121904024628fc6aa1",
+      "a": "机场榜单",
+      "b": "",
+      "entity": "机场榜单",
+      "brand": "机场榜单",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0feb6ea812a8ad45b5306570cd7ff37d963957292440899e75b785082dc35846",
+      "content": {
+        "keyword1": "机场榜单",
+        "keyword2": "",
+        "primary_entity": "机场榜单",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场榜单对照基础版、旗舰版与团队版的月费、年费、流量和设备数，说明流媒体、游戏线路与客户端导入订阅的用法，并提示从账户中心完成官网下载。",
+          "AI_DESCRIPTION": "机场榜单对照基础版、旗舰版与团队版的月费、年费、流量和设备数，说明流媒体、游戏线路与客户端导入订阅的用法，并提示从账户中心完成官网下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#071525;--ink:#e7f0f6;--muted:#c5d5e2;--card:#10283d;--line:#1e4d66;--cyan:#3ec6d4;--deep:#0b3a4a}*{box-sizing:border-box}html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:\"Segoe UI\",\"PingFang SC\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;font-size:17px;line-height:1.75}body{overflow-x:hidden}a{color:var(--cyan);text-decoration:none}a:hover{text-decoration:underline}img,svg,video,canvas,iframe{display:none}.wrap{width:min(1080px,calc(100% - 32px));margin:0 auto}.site-header{border-bottom:1px solid var(--line);background:#091c2e}.site-header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;padding:14px 0}.brand{font-weight:700;letter-spacing:.04em;color:var(--ink)}.nav{display:flex;flex-wrap:wrap;gap:12px 16px}.nav a{color:var(--muted);font-size:.95rem}.hero{padding:36px 0 12px}.kicker{color:var(--cyan);font-size:.92rem;margin:0 0 8px}h1{font-size:clamp(1.7rem,4vw,2.35rem);line-height:1.3;margin:0 0 12px}h2{font-size:1.45rem;line-height:1.35;margin:0 0 12px}h3{font-size:1.08rem;line-height:1.4;margin:0 0 8px}.lead{color:var(--muted);margin:0;max-width:68ch}.layout{display:grid;grid-template-columns:1.4fr .8fr;gap:22px;align-items:start;padding-bottom:10px}.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 16px 8px}.panel li{margin:0 0 8px}section{padding:22px 0}p{margin:0 0 12px}.steps{margin:0;padding-left:1.2rem}.steps li{margin:0 0 10px}.plans{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.plan{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;min-width:0}.plan.featured{border-color:var(--cyan);background:#0e3344;box-shadow:inset 0 0 0 1px rgba(62,198,212,.35)}.tag{display:inline-block;color:#062028;background:var(--cyan);border-radius:999px;padding:2px 8px;font-size:.8rem;font-weight:700;margin-bottom:8px}.price{font-size:1.55rem;font-weight:700;margin:4px 0}.annual{color:var(--muted);font-size:.92rem;margin:0 0 10px}.plan ul{margin:0 0 14px;padding-left:1.1rem;color:var(--ink)}.plan li{margin:0 0 6px}.btn{display:inline-block;text-align:center;background:var(--cyan);color:#062028;font-weight:700;border-radius:10px;padding:8px 12px;margin-top:auto}.btn.ghost{background:transparent;color:var(--cyan);border:1px solid var(--cyan)}.compare{display:grid;gap:10px}.row{display:grid;grid-template-columns:1.1fr repeat(3,minmax(0,1fr));gap:8px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}.row strong,.row span{min-width:0;overflow-wrap:anywhere}.row.head{background:var(--deep);color:var(--ink)}details{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin:0 0 10px}summary{cursor:pointer;font-weight:700}details p{margin:8px 0 4px;color:var(--muted)}.note{font-size:.92rem;color:var(--muted)}footer{border-top:1px solid var(--line);padding:18px 0 28px;color:var(--muted);font-size:.92rem}@media(max-width:860px){.layout,.plans,.row{grid-template-columns:1fr}.row.head{display:none}}</style><header class=\"site-header\"><div class=\"wrap\"><div class=\"brand\">机场榜单</div><nav class=\"nav\" aria-label=\"页内导航\"><a href=\"#about\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">使用说明</a><a href=\"#download\">客户端</a><a href=\"#faq\">问答</a></nav></div></header><main><div class=\"wrap\"><header class=\"hero\"><p class=\"kicker\">订阅方案对照 · 网络加速说明</p><h1>机场榜单：把流量、设备与线路放在同一页看清</h1><p class=\"lead\">机场榜单用编辑式对照，说明基础版、旗舰版和团队版在月付、年付、流量额度、同时在线设备、流媒体与线路类型上的差别，并给出客户端导入订阅的一般步骤。本页不代替账户中心的实时余量，也不以评分或用户评价作推荐依据。</p></header><div class=\"layout\"><section id=\"about\"><h2>品牌简介</h2><p>机场榜单关注的是“怎么选一份可核对的订阅”，而不是堆砌节点数量。页面只列三档已公示方案：适合轻度跨境访问的基础版、兼顾流媒体与游戏线路优化的旗舰版，以及面向多人共用的团队版。阅读时建议先看设备数和月流量是否够用，再看线路类型是否匹配你的主要用途。</p><p>网络加速在这里指：通过订阅下发的节点访问境外网站、同步资料或观看已支持的流媒体。它不能提高本地宽带的物理上限，也不能保证每一个网站在每一时刻都同样快。晚高峰、目标网站自身拥堵、以及设备与线路距离，都会影响体感。</p><h3>阅读本页时先确认的三件事</h3><ul><li>每月可用极速流量，以及用尽后的处理方式以账户说明为准。</li><li>同时在线设备上限，超出后需要先断开旧设备。</li><li>流媒体解锁与游戏优化只出现在对应套餐的功能列表中，不要默认全档相同。</li></ul></section><aside class=\"panel\"><h2>对照要点</h2><ul><li>基础版：100GB / 3 台设备 / 基础流媒体 / 普通线路。</li><li>旗舰版：300GB / 5 台设备 / 原生流媒体 / IPLC 游戏优化 / 优先工单。</li><li>团队版：1000GB / 20 台设备 / 高带宽节点 / 企业路由 / 客户经理。</li><li>年付分别为 150、350、850 元，相当于各档月费的十个月。</li></ul></aside></div><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与资料同步</h3><p>需要打开境外协作文档、代码托管或邮件网页时，优先看稳定性和设备数。一个人在电脑与手机之间切换，基础版的 3 台设备通常够用；若还要加上平板和备用机，旗舰版的 5 台更从容。</p><h3>家庭影视</h3><p>基础版提供基础流媒体解锁。若家庭成员同时观看、且依赖各平台原生解锁，旗舰版写明“全节点原生流媒体解锁”，更接近这一需求。高码率视频会更快消耗流量，300GB 与 100GB 的差别主要体现在这里。</p><h3>游戏联机</h3><p>旗舰版列出 IPLC 专线游戏加速优化。它针对的是延迟和抖动，而不是替你修改游戏客户端。普通网页和视频不必强行占用游戏优化线路，以免和真正在排队的玩家争用带宽。</p><h3>小团队共用</h3><p>团队版把设备上限提高到 20 台，并提供 VIP 高带宽节点、企业定制路由和专属客户经理。适合工作室集中采购，不适合把账号公开转卖。共用时建议由管理员统一导入订阅，并按人登记设备，避免同时在线超限。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>价格与功能以下列公示为准。标为着重的旗舰版，是多数个人用户在流媒体和游戏之间折中的一档，并不表示另外两档不可用。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn ghost\" href=\"#guide\">查看开通步骤</a></article><article class=\"plan featured\"><span class=\"tag\">着重对照</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#guide\">按此档准备客户端</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn ghost\" href=\"#guide\">查看团队使用说明</a></article></div><h3>同一项功能并排看</h3><div class=\"compare\"><div class=\"row head\"><strong>项目</strong><span>基础版</span><span>旗舰版</span><span>团队版</span></div><div class=\"row\"><strong>月付</strong><span>¥15</span><span>¥35</span><span>¥85</span></div><div class=\"row\"><strong>年付</strong><span>¥150</span><span>¥350</span><span>¥850</span></div><div class=\"row\"><strong>月流量</strong><span>100GB</span><span>300GB</span><span>1000GB</span></div><div class=\"row\"><strong>同时在线</strong><span>3 台</span><span>5 台</span><span>20 台</span></div><div class=\"row\"><strong>流媒体</strong><span>基础解锁</span><span>全节点原生解锁</span><span>随高带宽节点</span></div><div class=\"row\"><strong>线路与服务</strong><span>普通线路节点池</span><span>IPLC 游戏优化，优先工单</span><span>定制路由与客户经理</span></div></div></section><section id=\"guide\"><h2>操作说明</h2><p>本页只说明通用顺序。具体订阅地址以你登录后账户中心显示的内容为准，不要把来路不明的链接粘贴进客户端。</p><ol class=\"steps\"><li>在上方选定基础版、旗舰版或团队版，记下流量和设备上限。</li><li>按所选周期完成月付或年付。年付金额已按十个月计算，中途更换档位前先看清剩余天数如何折算。</li><li>在账户中心复制当月有效的订阅链接。链接会随重置或风控更新，旧链接失效后需要重新复制。</li><li>打开与你的系统匹配的客户端，使用“从订阅导入”而不是手动逐条添加节点。导入后更新一次订阅。</li><li>先选普通或自动节点完成网页访问测试；观看流媒体时再换标记为流媒体的节点；只有旗舰版用户在游戏时再尝试 IPLC 优化线路。</li><li>连接成功后查看客户端里的流量统计。接近月额度时提前降清晰度或暂停后台更新，避免在计费周期末突然中断。</li></ol><h3>设备与流量的日常管理</h3><p>同一订阅在新手机上登录后，若提示超过在线数，先在旧设备退出或在账户里移除离线记录。团队版应由一人保管订阅链接，其他人只使用管理员下发的配置，减少链接外泄后被占满设备名额的可能。</p></section><section id=\"download\"><h2>客户端与官网下载指引</h2><p>机场榜单不在本页托管安装包，也不提供外部文件地址。请通过本页套餐与说明确认需求后，在账户中心查看与系统对应的客户端入口。官网下载只应来自你已经登录的账户页面；公开论坛里的“加速器安装包”经常被调包，不要用它们替代账户中的入口。</p><p>常见使用方式是：电脑端导入订阅后保持系统代理关闭，只让浏览器或指定应用走客户端；手机端则在客户端内开启连接，并允许本地网络权限。若某个网站打不开，先更换同套餐内的另一个节点，再检查流量是否用尽，最后再提交工单。旗舰版含 7×24 优先工单，基础版按普通队列处理。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>机场榜单的三档订阅应该怎么选？</summary><p>一个人、设备不超过 3 台、以网页和轻度视频为主，选基础版。需要原生流媒体或游戏线路优化，选旗舰版。多人共用、要高带宽和定制路由，选团队版。先满足设备数，再比较流量。</p></details><details><summary>年付和月付差在哪里？</summary><p>基础版年付 150 元、旗舰版 350 元、团队版 850 元，都相当于该档月费的十个月。若你只试用一个月，月付更灵活；确定长期使用再选年付。更换或中止以购买时公示的规则为准。</p></details><details><summary>客户端如何开始加速？</summary><p>在账户中心复制订阅链接，于客户端选择导入订阅并更新。连接后先用普通节点测试网页，再按用途切换流媒体或游戏线路。不要手动添加来源不明的节点。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>极速流量按月计算，额度分别为 100GB、300GB 和 1000GB。用尽后的具体策略以账户中心说明为准，本页不额外承诺无限流量。设备超过 3、5 或 20 台时，需要断开旧设备后才能让新设备上线。</p></details><details><summary>流媒体解锁和游戏优化是否每档都有？</summary><p>不是。基础版是基础流媒体和普通线路；旗舰版写明全节点原生流媒体解锁，以及 IPLC 专线游戏加速优化；团队版强调高带宽节点、企业定制路由和客户经理。购买前对照功能列表，而不是只看价格。</p></details><details><summary>官网下载应去哪里？</summary><p>以登录后的账户中心为准。本页的链接都是页内锚点，用来回到套餐、说明和问答，不提供安装文件。若页面要求你先关闭安全软件再安装未知程序，应停止操作并改从账户入口获取客户端。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>机场榜单提供订阅方案说明与对照，价格和功能以本页公示的三档为准。网络加速效果受线路、时段和目标网站影响，页面不展示评分或用户评论。</p><p><a href=\"#about\">返回简介</a> · <a href=\"#plans\">返回套餐对比</a></p></div></footer>",
+          "hash": "13d0ef2650f4ce49ce0a5dd0bb3daf141e622d3cc413c586d3973a020e0e96df",
+          "seo": {
+            "title": "机场榜单：网络加速订阅对照与客户端下载指引",
+            "keywords": "机场榜单,网络加速,加速器,机场订阅,客户端下载,官网下载,流媒体解锁",
+            "description": "机场榜单对照基础版、旗舰版与团队版的月费、年费、流量和设备数，说明流媒体、游戏线路与客户端导入订阅的用法，并提示从账户中心完成官网下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "batuwu.cn",
+    "host": "p-2f60bb9828.batuwu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e1c7a38dae33132f6ba5c81b1e62aa3a9b427113b367c3a0c73b68a5fb5cc2fc",
+    "sitemap.xml": "422e0815675c5db11f884e5c3cb453d5fb6a2c34502ce3cdc1ef7edb7b8111a3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0503f1541af8b0ca006a0ac67e204fdf9deaedbe7075b487f19f8c8bcfcf0e7c",
+    "robots.txt": "4bc514cbb4b88c0705e695d0ca33a324ff7c9149465822867983a28f6b389d0b",
+    "62be42f6add96f389d806f782e88674b.txt": "fa99d50920a0d6116c09b1ee686f0d7c1d34dd101e5dd1f61150d30759f198a6"
+  },
+  "revision": "2c9d79f9ab3231ce88cef779f84767c52eb870f29982132cf44321cb87099aae"
+}
